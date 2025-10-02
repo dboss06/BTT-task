@@ -1,0 +1,14 @@
+C:\Users\Juxtthere's PC\Desktop\Task 2\Task 2\obj\Debug\net9.0\Task 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Juxtthere's PC\Desktop\Task 2\Task 2\obj\Debug\net9.0\Task 2.AssemblyInfoInputs.cache
+C:\Users\Juxtthere's PC\Desktop\Task 2\Task 2\obj\Debug\net9.0\Task 2.AssemblyInfo.cs
+C:\Users\Juxtthere's PC\Desktop\Task 2\Task 2\obj\Debug\net9.0\Task 2.csproj.CoreCompileInputs.cache
+C:\Users\Juxtthere's PC\Desktop\Task 2\Task 2\bin\Debug\net9.0\Task 2.exe
+C:\Users\Juxtthere's PC\Desktop\Task 2\Task 2\bin\Debug\net9.0\Task 2.deps.json
+C:\Users\Juxtthere's PC\Desktop\Task 2\Task 2\bin\Debug\net9.0\Task 2.runtimeconfig.json
+C:\Users\Juxtthere's PC\Desktop\Task 2\Task 2\bin\Debug\net9.0\Task 2.dll
+C:\Users\Juxtthere's PC\Desktop\Task 2\Task 2\bin\Debug\net9.0\Task 2.pdb
+C:\Users\Juxtthere's PC\Desktop\Task 2\Task 2\obj\Debug\net9.0\Task 2.dll
+C:\Users\Juxtthere's PC\Desktop\Task 2\Task 2\obj\Debug\net9.0\refint\Task 2.dll
+C:\Users\Juxtthere's PC\Desktop\Task 2\Task 2\obj\Debug\net9.0\Task 2.pdb
+C:\Users\Juxtthere's PC\Desktop\Task 2\Task 2\obj\Debug\net9.0\Task 2.genruntimeconfig.cache
+C:\Users\Juxtthere's PC\Desktop\Task 2\Task 2\obj\Debug\net9.0\ref\Task 2.dll
