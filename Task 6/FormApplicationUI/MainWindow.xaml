@@ -1,0 +1,115 @@
+﻿<Window x:Class="FormApplicationUI.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:sys="clr-namespace:System;assembly=mscorlib"
+        xmlns:local="clr-namespace:FormApplicationUI"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="650" Width="800" Background="#FFFFFF">
+    <Window.Resources>
+        <Style x:Key="SubmitButton" TargetType="Button">
+            <Setter Property="HorizontalAlignment" Value="Left"/>
+            <Setter Property="Margin" Value="10,16,0,0"/>
+            <Setter Property="Background" Value="#5DB2FF"/>
+            <Setter Property="Foreground" Value="#BBDEFF"/>
+            <Setter Property="BorderThickness" Value="0"/>
+            <Setter Property="Width" Value="100"/>
+            <Setter Property="Height" Value="35"/>
+            <Setter Property="Cursor" Value="Hand"/>
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="Button">
+                        <Border Background="{TemplateBinding Background}" CornerRadius="4">
+                            <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                        </Border>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+            <Style.Triggers>
+                <Trigger Property="IsMouseOver" Value="True">
+                    <Setter Property="Background" Value="#E8E8E8"/>
+                </Trigger>
+            </Style.Triggers>
+        </Style>
+
+    </Window.Resources>
+    <Grid Height="591" Margin="0,5,0,0" HorizontalAlignment="Center" VerticalAlignment="Center">
+        <Border BorderBrush="#FFD8D1D1"  RenderTransformOrigin="1,0" CornerRadius="5" BorderThickness="10">
+            <Grid>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                </Grid.RowDefinitions>
+                <Border Grid.Row="0" Background="#5DB2FF" VerticalAlignment="Top" Width="590">
+                    <TextBlock Text="Registration Form" VerticalAlignment="Center" Foreground="#FFF9FFFB" FontSize="13" FontFamily="Arial" FontWeight="Medium" LineHeight="8" Padding="10,5,0,10" Margin="5,3,0,0"/>
+                </Border>
+                <Border Grid.Row="1" Margin="10,20,15,4">
+                    <StackPanel>
+                        <TextBlock Text="User Information" FontWeight="Light" HorizontalAlignment="Left" VerticalAlignment="Center" FontSize="20" FontFamily="Arial" LineHeight="8" Margin="8,3,0,0" Foreground="#FFB3B0B0"/>
+                        <Rectangle Height="1" Stretch="Fill" Fill="#666" Width="549"/>
+                        <TextBox Width="549" Height="34" Text="Username" Margin="0,10,0,0" FontSize="13" Padding="3,7,0,5" Foreground="#FFB3B0B0" FontWeight="Light"/>
+                        <TextBox Width="549" Height="34" Text="Email Address" Margin="0,10,0,0" FontSize="13" Padding="3,7,0,5" Foreground="#FFB3B0B0" FontWeight="Light"/>
+                        <TextBox Width="549" Height="34" Text="Password" Margin="0,10,0,0" FontSize="13" Padding="3,7,0,5" Foreground="#FFB3B0B0" FontWeight="Light"/>
+                        <TextBox Width="549" Height="34" Text="Confirm Password" Margin="0,10,0,0" FontSize="13" Padding="3,7,0,5" Foreground="#FFB3B0B0" FontWeight="Light"/>
+                    </StackPanel>
+                </Border>
+                <Border Grid.Row="2" Margin="10,20,15,4">
+                    <StackPanel>
+                        <TextBlock Text="Personal Information" FontWeight="Light" HorizontalAlignment="Left" VerticalAlignment="Center" FontSize="20" FontFamily="Arial" LineHeight="8" Margin="8,3,0,0" Foreground="#FFB3B0B0"/>
+                        <Rectangle Height="1" Stretch="Fill" Fill="#666" Width="549"/>
+                        <Grid>
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="Auto"/>
+                                <ColumnDefinition Width="Auto"/>
+                            </Grid.ColumnDefinitions>
+                            <StackPanel Grid.Column="0" Margin="10,0,0,0">
+                                <TextBox Width="270" Height="34" Text="Name" Margin="0,10,0,0" FontSize="13" Padding="6,7,0,0" Foreground="#FFB3B0B0" FontWeight="Light"/>
+                                <TextBox Width="270" Height="34" Text="Phone" Margin="0,10,0,0" FontSize="13" Padding="3,7,0,0" Foreground="#FFB3B0B0" FontWeight="Light"/>
+                            </StackPanel>
+                            <StackPanel Grid.Column="1" Margin="10,0,0,0">
+                                <TextBox Width="270" Height="34" Text="Family" Margin="0,10,0,0" FontSize="13" Padding="6,7,0,0" Foreground="#FFB3B0B0" FontWeight="Light"/>
+                                <TextBox Width="270" Height="34" Text="Mobile" Margin="0,10,0,0" FontSize="13" Padding="3,7,0,0" Foreground="#FFB3B0B0" FontWeight="Light"/>
+                            </StackPanel>
+                        </Grid>
+                    </StackPanel>
+                </Border>
+                <Border Grid.Row="3" Margin="10,30,15,4">
+                    <StackPanel>
+                        <Rectangle Height="1" Stretch="Fill" Fill="#666" Width="549"/>
+                        <Grid>
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="Auto"/>
+                                <ColumnDefinition Width="Auto"/>
+                            </Grid.ColumnDefinitions>
+                            <TextBox Grid.Column="0" Width="270" Height="34" Text="Birth Date" Margin="8,10,0,0" FontSize="13" Padding="6,7,0,0" Foreground="#FFB3B0B0" FontWeight="Light"/>
+                            <TextBox Grid.Column="1" Width="270" Height="34" Text="Birth Place" Margin="8,10,0,0" FontSize="13" Padding="3,7,0,0" Foreground="#FFB3B0B0" FontWeight="Light"/>
+                        </Grid>
+                    </StackPanel>
+                </Border>
+                <Border Grid.Row="4" Margin="10,5,15,4">
+                    <Grid>
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="Auto"/>
+                            <RowDefinition Height="Auto"/>
+                        </Grid.RowDefinitions>
+
+                        <StackPanel Grid.Row="0">
+                            <CheckBox Content="Auto Sign In After Registration" Height="15" Margin="10,8,0,0" Foreground="#FFB3B0B0">
+                                <CheckBox.RenderTransform>
+                                    <TransformGroup>
+                                        <ScaleTransform ScaleX="1.2" ScaleY="1.2"/>
+                                    </TransformGroup>
+                                </CheckBox.RenderTransform>
+                            </CheckBox>
+                        </StackPanel>
+                        <Button Grid.Row="1" FontSize="15" Content="Register" Style="{DynamicResource SubmitButton}"/>
+                    </Grid>
+                </Border>
+            </Grid>
+        </Border>
+    </Grid>
+</Window>

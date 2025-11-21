@@ -1,0 +1,52 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Juxtthere\u0027s PC\\Documents\\GitHub\\BTT-task\\Task 6\\FormApplicationUI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BE558A7A-F059-445B-95CD-976CFB3E47A5}|FormApplicationUI.csproj|c:\\users\\juxtthere\u0027s pc\\documents\\github\\btt-task\\task 6\\formapplicationui\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{BE558A7A-F059-445B-95CD-976CFB3E47A5}|FormApplicationUI.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE558A7A-F059-445B-95CD-976CFB3E47A5}|FormApplicationUI.csproj|c:\\users\\juxtthere\u0027s pc\\documents\\github\\btt-task\\task 6\\formapplicationui\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE558A7A-F059-445B-95CD-976CFB3E47A5}|FormApplicationUI.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Juxtthere\u0027s PC\\Documents\\GitHub\\BTT-task\\Task 6\\FormApplicationUI\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Juxtthere\u0027s PC\\Documents\\GitHub\\BTT-task\\Task 6\\FormApplicationUI\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-10T18:15:01.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Juxtthere\u0027s PC\\Documents\\GitHub\\BTT-task\\Task 6\\FormApplicationUI\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Juxtthere\u0027s PC\\Documents\\GitHub\\BTT-task\\Task 6\\FormApplicationUI\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T14:45:33.903Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

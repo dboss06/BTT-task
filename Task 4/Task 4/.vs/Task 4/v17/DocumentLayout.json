@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Juxtthere\u0027s PC\\Documents\\GitHub\\BTT-task\\Task 4\\Task 4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{820BEBCD-6C78-4F49-AD65-D7F17B7CF20E}|Task 4.csproj|c:\\users\\juxtthere\u0027s pc\\documents\\github\\btt-task\\task 4\\task 4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{820BEBCD-6C78-4F49-AD65-D7F17B7CF20E}|Task 4.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Juxtthere\u0027s PC\\Documents\\GitHub\\BTT-task\\Task 4\\Task 4\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Juxtthere\u0027s PC\\Documents\\GitHub\\BTT-task\\Task 4\\Task 4\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAcwBUAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T15:50:15.91Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

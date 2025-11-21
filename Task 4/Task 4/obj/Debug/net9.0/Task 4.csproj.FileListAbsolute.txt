@@ -1,0 +1,15 @@
+C:\Users\Juxtthere's PC\Documents\GitHub\BTT-task\Task 4\Task 4\bin\Debug\net9.0\Task 4.exe
+C:\Users\Juxtthere's PC\Documents\GitHub\BTT-task\Task 4\Task 4\bin\Debug\net9.0\Task 4.deps.json
+C:\Users\Juxtthere's PC\Documents\GitHub\BTT-task\Task 4\Task 4\bin\Debug\net9.0\Task 4.runtimeconfig.json
+C:\Users\Juxtthere's PC\Documents\GitHub\BTT-task\Task 4\Task 4\bin\Debug\net9.0\Task 4.dll
+C:\Users\Juxtthere's PC\Documents\GitHub\BTT-task\Task 4\Task 4\bin\Debug\net9.0\Task 4.pdb
+C:\Users\Juxtthere's PC\Documents\GitHub\BTT-task\Task 4\Task 4\obj\Debug\net9.0\Task 4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Juxtthere's PC\Documents\GitHub\BTT-task\Task 4\Task 4\obj\Debug\net9.0\Task 4.AssemblyInfoInputs.cache
+C:\Users\Juxtthere's PC\Documents\GitHub\BTT-task\Task 4\Task 4\obj\Debug\net9.0\Task 4.AssemblyInfo.cs
+C:\Users\Juxtthere's PC\Documents\GitHub\BTT-task\Task 4\Task 4\obj\Debug\net9.0\Task 4.csproj.CoreCompileInputs.cache
+C:\Users\Juxtthere's PC\Documents\GitHub\BTT-task\Task 4\Task 4\obj\Debug\net9.0\Task 4.sourcelink.json
+C:\Users\Juxtthere's PC\Documents\GitHub\BTT-task\Task 4\Task 4\obj\Debug\net9.0\Task 4.dll
+C:\Users\Juxtthere's PC\Documents\GitHub\BTT-task\Task 4\Task 4\obj\Debug\net9.0\refint\Task 4.dll
+C:\Users\Juxtthere's PC\Documents\GitHub\BTT-task\Task 4\Task 4\obj\Debug\net9.0\Task 4.pdb
+C:\Users\Juxtthere's PC\Documents\GitHub\BTT-task\Task 4\Task 4\obj\Debug\net9.0\Task 4.genruntimeconfig.cache
+C:\Users\Juxtthere's PC\Documents\GitHub\BTT-task\Task 4\Task 4\obj\Debug\net9.0\ref\Task 4.dll

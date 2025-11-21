@@ -47,7 +47,7 @@ partial class Program
             Console.WriteLine("Do you want to go again(Y/N): ");
             string? userInput = Console.ReadLine();
 
-            if (userInput?.Trim().ToUpper() == "N"))
+            if (userInput?.Trim().ToUpper() == "N")
             {
                 isRunning = false;
                 Console.WriteLine("Thank you for using the stuff");
